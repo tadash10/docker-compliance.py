@@ -1,0 +1,10 @@
+# Compiled files
+*.pyc
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Output files
+output/
